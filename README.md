@@ -1,0 +1,2 @@
+# LGMDatascience_Internship
+Task1_Intermediate_Level.ipynb
